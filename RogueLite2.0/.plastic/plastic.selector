@@ -1,0 +1,4 @@
+repository "RogueLite2.0/RogueLite2.0@5773690871192@cloud"
+  path "/"
+    br "/main"
+    co "/main"
